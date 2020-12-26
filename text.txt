@@ -1,0 +1,15 @@
+Saya dari Indonesia dan saya telah bekerja sebagai desainer grafis dan video editor selama lebih dari 2 tahun dan masih senang melakukannya setiap hari. dan saya telah bekerja lepas selama 2 tahun terakhir, dan saat ini saya sangat siap untuk bekerja sama dengan Anda
+
+
+Hi, i’m Fahmi Kamal
+UI/UX Designer Who Teaches Design on Youtube.
+
+
+Saya telah bekerja untuk sebuah perusahaan Belanda bernama Frisseblikken sebagai perancang web dan pengembang front-end selama 3 tahun, dan saya juga membangun tim pengembangan web saya sendiri Duosweb sejak 2018. Saya telah bekerja lepas selama 7 tahun terakhir, dan saat ini Saya menantikan untuk bekerja sama dengan Anda!
+
+
+<p class="card-text text-secondary">
+                    consectetur adipiscing elit, 
+                    sed do eiusmod tempor incididunt 
+                    ut labore et dolore magna aliqua
+                  </p>
